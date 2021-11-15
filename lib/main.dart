@@ -106,7 +106,7 @@ class EmployeeDataGridSource extends DataGridSource {
           child: Text(
             dataGridCell.value.toString(),
             overflow: TextOverflow.ellipsis,
-            style: const TextStyle(fontFamily: 'HeeboThin'),
+            style: const TextStyle(fontFamily: 'HeeboLight'),
           ));
     }).toList());
   }

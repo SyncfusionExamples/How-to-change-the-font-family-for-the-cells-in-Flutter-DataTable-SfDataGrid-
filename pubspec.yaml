@@ -62,9 +62,9 @@ flutter:
     - family: HeeboBold
       fonts: 
         - asset: assets/Heebo-Bold.ttf
-    - family: HeeboThin
+    - family: HeeboLight
       fonts: 
-        - asset: assets/Heebo-Thin.ttf
+        - asset: assets/Heebo-Light.ttf
 
   # To add assets to your application, add an assets section, like this:
   # assets:
